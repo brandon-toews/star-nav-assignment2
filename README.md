@@ -4,7 +4,7 @@ ct4101---assignment-2-brandon-toews created by GitHub Classroom
 Programming Maths Project - Star Map Navigation Simulator
 Name: Brandon Toews
 
-C# Scripts are located in the [Assets](Assets/scripts) folder of this repo.
+C# Scripts are located in the [Assets/scripts](Assets/scripts) folder of this repo.
 
 Camera Controls: 
 W - Forward 
